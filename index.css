@@ -1,0 +1,29 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+#div_center{
+width:100%;
+text-align: center;
+
+}
+#my_id{
+    display: inline-block;
+    width:300px;
+    height: 300px;
+    margin-top: 50px;
+    border:5px solid black;
+    background-color: blue;
+    box-shadow: 5px 5px 5px 5px grey;
+}
+
+#my_button{
+    width:200px;
+    height: 50px;
+    font-size: 16px;
+    border-radius: 25px;
+    color:black;
+    background-color: grey;
+    cursor: pointer;
+}
